@@ -6,6 +6,7 @@
     
 </div>
 <div align="center">
-  atabook; https://geometryw1.atabook.org rentry; https://rentry.co/geometryw1
+  atabook; https://geometryw1.atabook.org
+  rentry; https://rentry.co/geometryw1
 </div>
 ㅤㅤㅤ
